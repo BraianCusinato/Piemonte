@@ -1,5 +1,5 @@
 <?php
-	$title = "Home";
+	$title = "alpi.php";
 	include_once 'header.php';
 ?>
 

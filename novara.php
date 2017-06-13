@@ -1,5 +1,5 @@
 <?php
-	$title = "Home";
+	$title = "novara.php";
 	include_once 'header.php';
 ?>
 
